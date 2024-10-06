@@ -1,4 +1,4 @@
-NLP Task - Text classification
+NLP - Text classification
 
 Dataset description
 The dataset contains a collection of chat messages that can be used to develop a sentiment
